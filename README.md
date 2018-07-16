@@ -1,7 +1,7 @@
-Chrome Extension Hello World Demo
+Chrome Extension Context Menu Demo
 ==================================
 
-A simple chrome extension just alert "Hello, Chrome Extension!".
+Add a menu item to context menu: `Alert selection`. When click on it, the selection content will be alerted.
 
 Install:
 -------
