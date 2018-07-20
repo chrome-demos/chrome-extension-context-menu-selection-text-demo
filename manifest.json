@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Chrome Extension Context Menu",
-  "description": "Just alert a Hello World",
+  "name": "context-menu-selection-text-demo",
+  "description": "context-menu-selection-text-demo",
   "version": "1.0",
   "background": {
     "scripts": ["hello.js"]
